@@ -32,13 +32,16 @@ Um sistema simples e eficiente para gerenciar suas despesas pessoais. Cadastre, 
 
 ---
 
+### Autor 👨‍💻
+Feito com muito empenho, por **[Lucas Belluzi](https://www.linkedin.com/in/lucasbelluzi/)**.
+#
 ### Como Usar 🎯
 1. **Clone o repositório:**
    ```
    git clone https://github.com/seu-usuario/orcamento-pessoal.git
    ```
 2. **Abra o projeto:** Navegue até a pasta do projeto.
-```
-cd orcamento-pessoal
-```
+   ```
+   cd orcamento-pessoal
+   ```
 3. **Abra o arquivo `index.html` no seu navegador.**
