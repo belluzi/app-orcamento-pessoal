@@ -9,10 +9,12 @@ Um sistema simples e eficiente para gerenciar suas despesas pessoais. Cadastre, 
 ### Screenshots 📸
 
 **Página de Cadastro:**  
-![Página de Cadastro](screenshots/cadastro.png)
+
+![Página de Cadastro](screenshots/scr-index.png)
 
 **Página de Consulta:**  
-![Página de Consulta](screenshots/consulta.png)
+
+![Página de Consulta](screenshots/scr-consultas.png)
 
 ---
 
